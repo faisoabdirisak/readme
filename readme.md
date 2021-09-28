@@ -29,17 +29,16 @@
 
 
 # Table of content
-  <ol>
-  <li>Html</li>
-  <ul>
-  <li>tags<li>
-  <li>elements</li>
-  <li>forms</li>
-  </ul>
-  <li>Html</li>
-  <li>Html</li>
-  <li>Html</li>
-  </ol>
+  1. HTML
+  * Tags
+  * Elements
+  * Forms
+  * Table
+  2. CSS
+  * fonts
+  * sizes
+  * styles
+  * borders
 
   # Inserting image
 
