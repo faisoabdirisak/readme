@@ -1,9 +1,7 @@
 
-This is is a readme document
+This is is a readme document created by faiso and mwikali.
 
-
-
-
+TABLE
 
 <table>
     <tr>
@@ -12,20 +10,23 @@ This is is a readme document
     <th>ID</th>
     </tr>
      <tr>
-    <th>Names</th>
-    <th>Ages</th>
-    <th>ID</th>
+    <td>Joe</td>
+    <td>56</td>
+    <td>78987656</td>
     </tr>
      <tr>
-    <th>Names</th>
-    <th>Ages</th>
-    <th>ID</th>
+    <td>wilfrey</td>
+    <td>23</td>
+    <td>89765434</td>
     </tr>
      <tr>
-    <th>Names</th>
-    <th>Ages</th>
-    <th>ID</th>
+    <td>faiso</td>
+    <td>24</td>
+    <td>78654323</td>
     </tr>
 </table>
+
+
+
 Table of content
 <ul>
