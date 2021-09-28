@@ -1,7 +1,7 @@
 
 This is is a readme document created by faiso and mwikali.
 
-TABLE
+#TABLE
 
 <table>
     <tr>
@@ -31,6 +31,6 @@ TABLE
 Table of content
   
 
-  Inserting image
-  
+  #Inserting image
+
 <img src="mage.jpeg">
