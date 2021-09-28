@@ -1,7 +1,7 @@
 
-This is is a readme document created by faiso and mwikali.
+### This is is a readme document created by faiso and mwikali.
 
-#TABLE
+# TABLE
 
 <table>
     <tr>
@@ -28,9 +28,19 @@ This is is a readme document created by faiso and mwikali.
 
 
 
-Table of content
-  
+# Table of content
+  <ol>
+  <li>Html</li>
+  <ul>
+  <li>tags<li>
+  <li>elements</li>
+  <li>forms</li>
+  </ul>
+  <li>Html</li>
+  <li>Html</li>
+  <li>Html</li>
+  </ol>
 
-  #Inserting image
+  # Inserting image
 
 <img src="mage.jpeg">
