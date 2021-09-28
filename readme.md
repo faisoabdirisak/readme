@@ -27,19 +27,4 @@
 </table>
 
 
-
-# Table of content
-  1. HTML
-  * Tags
-  * Elements
-  * Forms
-  * Table
-  2. CSS
-  * fonts
-  * sizes
-  * styles
-  * borders
-
-  # Inserting image
-
 <img src="mage.jpeg">
