@@ -29,4 +29,8 @@ TABLE
 
 
 Table of content
-<ul>
+  
+
+  Inserting image
+  
+<img src="mage.jpeg">
